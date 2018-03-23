@@ -9,6 +9,7 @@ int main()
 	switch (x)
 	{
 		case 1:
+			//alvaro come pollas
 		printf("Introduce la altura y la base del triangulo:\n");
 		scanf("%f %f",&altura, &base);
 		area1=(base*altura)/2;
